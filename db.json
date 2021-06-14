@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "devOfMonth": {
+    "name": "Gopi Krishna M",
+    "position": "Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/22764510?s=400&v=4",
+    "description": "FullStack Developer, Organic Farmer"
   }
 }
